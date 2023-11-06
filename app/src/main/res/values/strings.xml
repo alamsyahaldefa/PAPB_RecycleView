@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PAPB_10</string>
+    <string name="ganjar">
+    Ganjar Pranowo, calon presiden yang bukan hanya tahu cara menata provinsi,
+    tapi juga tahu cara menata hati rakyat. Dengan Ganjar, pasti hidup makin ganjar-ganjar!
+</string>
+
+    <string name="anies">
+        Anies Baswedan, presiden masa depan yang punya rencana lebih banyak dari jumlah sepatu
+        di rak! Bersama Anies, kita pasti bisa melangkah dengan gaya!
+    </string>
+    <string name="prabowo">
+        Prabowo, calon presiden yang bak superhero tanpa jubah. Bersama beliau, negara kita
+        akan lebih kuat, lebih hebat, dan pastinya lebih seru! Siap-siap buat petualangan baru!
+    </string>
+</resources>
